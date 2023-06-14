@@ -1,0 +1,13 @@
+
+.field 
+{
+width: 27%;/*Muda o tamanho*/
+background-color: grey;/*Altera a cor de fundo*/
+}
+.titulo
+{
+  text-align: center;/*Alinha o texto*/
+  font-family: Arial, Helvetica, sans-serif;/*Define a fonte*/
+  font-size: x-large; /*Define o tamanho da fonte*/
+  
+}

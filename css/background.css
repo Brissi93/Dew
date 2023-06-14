@@ -1,0 +1,21 @@
+.cor fundo {
+    background-color: rgb(144, 146, 140);
+}
+
+h2 {
+    display: inline;
+}
+
+p {
+    display: inline;
+}
+
+.item {
+    width: 100px;
+    height: 100px;
+}
+
+.item-1 {background-color: crimson];}
+.item-2 {background-color: cornflowerblue;}
+.item-3 {background-color: lightgreen;}
+
